@@ -1,0 +1,28 @@
+{
+  "name": "ApImages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarlonSdS/ApImages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarlonSdS/ApImages/issues"
+  },
+  "homepage": "https://github.com/MarlonSdS/ApImages#readme",
+  "dependencies": {
+    "@types/jest": "^27.0.3",
+    "express": "^4.17.1",
+    "jest": "^27.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.13",
+    "supertest": "^6.1.6"
+  }
+}
